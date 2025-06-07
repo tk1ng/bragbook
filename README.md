@@ -9,18 +9,18 @@ BragBook enables professionals to systematically log their accomplishments, trac
 
 ### Core Functionality
 
-Task Logging: Record completed tasks with detailed descriptions, dates, and impact
-Milestone Tracking: Document significant achievements and career milestones
-Visual Archive: Upload and attach images to entries for comprehensive documentation
-Progress Timeline: View your accomplishments chronologically to track career progression
+- Task Logging: Record completed tasks with detailed descriptions, dates, and impact 
+- Milestone Tracking: Document significant achievements and career milestones
+- Visual Archive: Upload and attach images to entries for comprehensive documentation
+- Progress Timeline: View your accomplishments chronologically to track career progression
 
 ### Key Benefits
 
-Build a comprehensive record for performance reviews
-Support promotion discussions with documented evidence
-Reflect on professional growth and identify patterns
-Create a visual portfolio of work achievements
-Maintain continuity across role changes and career transitions
+- Build a comprehensive record for performance reviews
+- Support promotion discussions with documented evidence
+- Reflect on professional growth and identify patterns
+- Create a visual portfolio of work achievements
+- Maintain continuity across role changes and career transitions
 
 ## Getting Started
 
