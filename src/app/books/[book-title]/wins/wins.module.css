@@ -1,0 +1,17 @@
+.win {
+    --color-card-brighter: color-mix(in srgb,
+            var(--card-background-color),
+            var(--secondary) 20%);
+    margin: 1em 0.8em;
+    padding: 0.7em 1em 0.7em;
+    background-color: var(--color-card-brighter);
+}
+
+.win:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.win time {
+    color: violet;
+    padding-left: 0.5em;
+}
